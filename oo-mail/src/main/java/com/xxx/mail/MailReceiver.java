@@ -85,7 +85,7 @@ public class MailReceiver {
             context.setVariable("departmentName", employee.getDepartment().getName());
             String mail = templateEngine.process("mail", context);
             helper.setText(mail, true);
-            javaMailSender.send(msg); // 发送邮件
+//            javaMailSender.send(msg); // 发送邮件
             logger.info("邮件发送成功！");
             // 将消息 id 存入 redis
             hashOperations.put("mail_log", msgId, "ok");
