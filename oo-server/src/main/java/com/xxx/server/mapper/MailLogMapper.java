@@ -8,8 +8,8 @@ import com.xxx.server.pojo.MailLog;
  * 邮件日志 Mapper 接口
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface MailLogMapper extends BaseMapper<MailLog> {
 

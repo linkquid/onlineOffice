@@ -34,8 +34,8 @@ import java.util.Map;
  * 管理员表 服务实现类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Service
 public class AdminServiceImpl extends ServiceImpl<AdminMapper, Admin> implements AdminService {

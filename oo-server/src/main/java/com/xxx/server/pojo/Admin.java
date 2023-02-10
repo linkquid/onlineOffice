@@ -28,8 +28,8 @@ import org.springframework.security.core.userdetails.UserDetails;
  * 管理员表
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

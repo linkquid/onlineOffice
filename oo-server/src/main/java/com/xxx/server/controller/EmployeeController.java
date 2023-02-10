@@ -27,8 +27,8 @@ import java.util.List;
  * 员工表 前端控制器
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @RestController
 @RequestMapping("/employee/basic") // 路径跟菜单表的 url 字段一样

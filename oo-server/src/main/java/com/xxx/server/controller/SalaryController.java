@@ -18,8 +18,8 @@ import java.util.List;
  * 工资表 前端控制器
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @RestController
 @RequestMapping("/salary/sob") // 路径对应菜单表 工资账套管理

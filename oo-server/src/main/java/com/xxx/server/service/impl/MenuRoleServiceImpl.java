@@ -14,8 +14,8 @@ import org.springframework.transaction.annotation.Transactional;
  * 菜单角色中间表 服务实现类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Service
 public class MenuRoleServiceImpl extends ServiceImpl<MenuRoleMapper, MenuRole> implements MenuRoleService {

@@ -8,8 +8,8 @@ import com.xxx.server.pojo.AdminRole;
  * 管理员角色中间表 服务类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface AdminRoleService extends IService<AdminRole> {
 

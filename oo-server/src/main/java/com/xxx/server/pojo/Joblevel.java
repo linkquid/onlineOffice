@@ -19,8 +19,8 @@ import lombok.experimental.Accessors;
  * 职称等级表
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Data
 @NoArgsConstructor

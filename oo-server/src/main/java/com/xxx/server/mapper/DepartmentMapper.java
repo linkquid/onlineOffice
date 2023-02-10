@@ -10,8 +10,8 @@ import java.util.List;
  * 部门表 Mapper 接口
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface DepartmentMapper extends BaseMapper<Department> {
 

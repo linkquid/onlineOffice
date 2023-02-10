@@ -9,8 +9,8 @@ import com.xxx.server.utils.RespBean;
  * 菜单角色中间表 服务类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface MenuRoleService extends IService<MenuRole> {
 

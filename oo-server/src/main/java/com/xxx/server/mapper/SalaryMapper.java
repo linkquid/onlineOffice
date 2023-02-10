@@ -8,8 +8,8 @@ import com.xxx.server.pojo.Salary;
  * 工资表 Mapper 接口
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface SalaryMapper extends BaseMapper<Salary> {
 

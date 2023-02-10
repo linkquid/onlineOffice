@@ -13,8 +13,8 @@ import java.util.List;
  * 员工表 Mapper 接口
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface EmployeeMapper extends BaseMapper<Employee> {
 

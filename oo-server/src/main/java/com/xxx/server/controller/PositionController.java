@@ -17,8 +17,8 @@ import java.util.List;
  * 职位管理 前端控制器
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @RestController
 @RequestMapping("/system/basic/pos")

@@ -15,8 +15,8 @@ import org.springframework.stereotype.Controller;
  * 邮件日志 前端控制器
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @RestController
 @RequestMapping("/mailLog")

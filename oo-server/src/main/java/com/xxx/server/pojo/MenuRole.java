@@ -15,8 +15,8 @@ import lombok.experimental.Accessors;
  * 菜单角色中间表
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

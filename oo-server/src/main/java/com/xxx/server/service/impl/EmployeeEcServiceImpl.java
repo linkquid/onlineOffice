@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 员工奖罚表 服务实现类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Service
 public class EmployeeEcServiceImpl extends ServiceImpl<EmployeeEcMapper, EmployeeEc> implements EmployeeEcService {

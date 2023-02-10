@@ -16,8 +16,8 @@ import lombok.experimental.Accessors;
  * 系统消息内容
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

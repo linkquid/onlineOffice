@@ -8,8 +8,8 @@ import com.xxx.server.pojo.Appraise;
  * 考评表 服务类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 public interface AppraiseService extends IService<Appraise> {
 

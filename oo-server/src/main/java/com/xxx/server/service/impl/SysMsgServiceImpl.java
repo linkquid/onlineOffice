@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 系统消息 服务实现类
  * </p>
  *
- * @author Bing
- * @since 2021-01-13
+ * @author xinfan
+ * @since 2023-01-13
  */
 @Service
 public class SysMsgServiceImpl extends ServiceImpl<SysMsgMapper, SysMsg> implements SysMsgService {
