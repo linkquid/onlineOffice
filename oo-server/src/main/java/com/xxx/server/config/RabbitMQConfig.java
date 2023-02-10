@@ -71,7 +71,7 @@ public class RabbitMQConfig {
 
     @Bean // 交换机
     public DirectExchange directExchange() {
-        return new DirectExchange(MailConstants.MAIL_EXCHANGE_NAME);
+        return new DirectExchange(MailConstants.MAIL_EXCHANGE_NAME, true ,false);
     }
 
     @Bean // 队列绑定交换机

@@ -86,7 +86,7 @@ public class AdminServiceImpl extends ServiceImpl<AdminMapper, Admin> implements
         if (!userDetails.isEnabled()) {
             return RespBean.error("账号被禁用，请联系管理员！");
         }
-        // 自己补充其它判断：账号是否存在......
+        // 账号是否存在等..
 
         // 更新 security 登录用户对象，设置到全局
         UsernamePasswordAuthenticationToken authenticationToken = new UsernamePasswordAuthenticationToken(userDetails

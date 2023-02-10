@@ -32,7 +32,7 @@ public class JwtTokenUtil {
     // 5. 刷新 token
 
     /**
-     * 1. ☑️ 根据用户信息生成 token
+     * 1. ️ 根据用户信息生成 token
      * 用户信息从 security 框架 UserDetails 中获取
      *
      * @param userDetails
@@ -46,7 +46,7 @@ public class JwtTokenUtil {
     }
 
     /**
-     * 4. ☑️ 从 token 中获取登录用户名
+     * 4. ️ 从 token 中获取登录用户名
      * @param token
      * @return
      */
@@ -63,7 +63,7 @@ public class JwtTokenUtil {
 
 
     /**
-     * 6. ☑️ 验证 token 是否有效
+     * 6. ️ 验证 token 是否有效
      * a、判断 token 是否已过期；
      * b、token 荷载中的用户名 和 userDetails 中的用户名是否一致
      *
@@ -99,7 +99,7 @@ public class JwtTokenUtil {
     }
 
     /**
-     * 9. ☑️ 判断 token 是否可以被刷新
+     * 9. ️ 判断 token 是否可以被刷新
      * 过期了，可以刷新。获取有效时间方法取反为过期
      *
      * @param token
@@ -110,7 +110,7 @@ public class JwtTokenUtil {
     }
 
     /**
-     * 10. ☑️ 刷新 token 过期时间
+     * 10. ️ 刷新 token 过期时间
      * @param token
      * @return
      */
