@@ -2,7 +2,7 @@
 在线办公平台
 涉及技术：
 
-  SpringBoot + SpringSecurity + MP + MySQL + Redis + RabbitMQ + Swagger2 + EasyPOI + FastDFS
+  SpringBoot + SpringSecurity + MP + MySQL + Redis + RabbitMQ + Swagger2 + EasyPOI + WebSocket
 
 项目介绍：
 
